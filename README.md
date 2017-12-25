@@ -14,9 +14,13 @@ Regresi Linear Adalah Sebuah Algoritma yang di implementasikan ke dalam Pembelaj
 * pip(https://pypi.python.org/pypi/pip)
 
 
-# Hasil
 
-* <b>positif</b>
 
-* <b>negatif</b>
+
+
+
+
+
+
+
 
